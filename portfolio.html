@@ -7,22 +7,22 @@
 			</div>
 		</div>
         <div class="row">
-				{{#portfolios}}
+				{% for categorie in site.data.portfolio.portfolios %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioDetails{{@index}}" class="portfolio-link" data-toggle="modal" data-portfoliotitle="{{Title}}">
+                    <a href="#portfolioDetails{{@index}}" class="portfolio-link" data-toggle="modal" data-portfoliotitle="{{categorie.Title}}">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="{{Image}}" class="img-responsive" alt="">
+                        <img src="{{categorie.Image}}" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>{{Title}}</h4>
-                        <p class="text-muted">{{Subtitle}}</p>
+                        <h4>{{categorie.Title}}</h4>
+                        <p class="text-muted">{{categorie.Subtitle}}</p>
                     </div>
                 </div>
-				{{/portfolios}}
+				{% endfor %}
 		</div>
 	</div>
 </section>
@@ -31,7 +31,7 @@
 <!-- Use the modals below to showcase details about your portfolio projects! -->
 
 
-{{#portfolios}}
+{% for categorie in site.data.portfolio.portfolios %}
     <!-- Portfolio Modal {{@index}} -->
 
     <div class="portfolio-modal modal fade" id="portfolioDetails{{@index}}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -47,12 +47,12 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
-                            <h2>{{Title}}</h2>
-                            <p class="item-intro text-muted">{{Subtitle}}</p>
-							{{#Items}}
-                            <img class="img-responsive img-centered" src="{{Image}}" alt="">
-							<p>{{Text}}</p>
-							{{/Items}}
+                            <h2>{{categorie.Title}}</h2>
+                            <p class="item-intro text-muted">{{categorie.Subtitle}}</p>
+							{% for item in categorie.Items %}
+                            <img class="img-responsive img-centered" src="{{item.Image}}" alt="">
+							<p>{{item.Text}}</p>
+							{% endfor %}
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Sluiten</button>
                         </div>
                     </div>
@@ -60,4 +60,4 @@
             </div>
         </div>
     </div>
-{{/portfolios}}
+{% endfor %}
