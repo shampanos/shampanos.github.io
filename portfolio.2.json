@@ -1,0 +1,83 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Loungeopmaat.com - houten meubelen op maat",
+      "spans": []
+    }
+  ],
+  "portfolio": [
+    {
+      "categorie": {
+        "id": "W9M7rxEAACsAwOMJ",
+        "type": "categorie",
+        "tags": [],
+        "slug": "loungesets-vanaf-1230-",
+        "lang": "nl-nl",
+        "link_type": "Document",
+        "isBroken": false
+      },
+      "document": {
+        "titel": [
+          {
+            "type": "heading1",
+            "text": "LOUNGESETS VANAF €1230,-",
+            "spans": []
+          }
+        ],
+        "plaatje": {
+          "dimensions": {
+            "width": 384,
+            "height": 258
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://loungeopmaat.cdn.prismic.io/loungeopmaat/015eed223eae6a72dc6b4fd91f108a122e09d05d_loungeset20hout20banken20kussens20tuinhout20lounge1.jpg"
+        },
+        "lijst": [
+          {
+            "lijst-tekst": [
+              {
+                "type": "heading1",
+                "text": "Lommel, Loungeset van verduurzaamd grenenhout incl diverse hockers",
+                "spans": []
+              }
+            ],
+            "lijst-plaatje": {
+              "dimensions": {
+                "width": 968,
+                "height": 648
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://loungeopmaat.cdn.prismic.io/loungeopmaat/4f760e60d6a2e2728fbd3d968af0da426da8b77f_loungeset20hout20banken20kussens20tuinhout20lounge1.jpg"
+            }
+          },
+          {
+            "lijst-tekst": [
+              {
+                "type": "heading1",
+                "text": "Scheveningen, Loungeset van behandeld tuinhout",
+                "spans": []
+              }
+            ],
+            "lijst-plaatje": {
+              "dimensions": {
+                "width": 720,
+                "height": 966
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://loungeopmaat.cdn.prismic.io/loungeopmaat/2fcbbda5dbce61e467d5b0f846d398b8a0a85c15_loungesets20behandeld20schuttinghout20tuinmeubelen.jpg1.jpeg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "categorie": {
+        "link_type": "Document"
+      }
+    }
+  ]
+}
