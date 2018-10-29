@@ -2,7 +2,7 @@ _options:
   Category_Image:
     width: 400
     height: 300
-    resize_style: "cover"
+    resize_style: "contain"
   List_Image:
     width: 700
     resize_style: "contain"    
