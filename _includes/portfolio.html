@@ -9,7 +9,7 @@
         <div class="row">
 				{% for categorie in site.data.portfolio.portfolios %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioDetails{{@index}}" class="portfolio-link" data-toggle="modal" data-portfoliotitle="{{categorie.Title}}">
+                    <a href="#portfolioDetails{{ forloop.index }}" class="portfolio-link" data-toggle="modal" data-portfoliotitle="{{categorie.Title}}">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -32,9 +32,9 @@
 
 
 {% for categorie in site.data.portfolio.portfolios %}
-    <!-- Portfolio Modal {{@index}} -->
+    <!-- Portfolio Modal {{ forloop.index }} -->
 
-    <div class="portfolio-modal modal fade" id="portfolioDetails{{@index}}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioDetails{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
