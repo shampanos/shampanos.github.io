@@ -1,0 +1,8 @@
+_options:
+  category_image:
+    width: 400
+    height: 300
+    resize_style: "cover"
+  list_image:
+    width: 700
+    resize_style: "contain"    
