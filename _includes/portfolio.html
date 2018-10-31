@@ -1,3 +1,4 @@
+
 <section id="portfolio" class="bg-light-gray">
 	<div class="container">
 		<div class="row">
@@ -50,7 +51,7 @@
                             <h2>{{categorie.Title}}</h2>
                             <p class="item-intro text-muted">{{categorie.Subtitle}}</p>
 							{% for item in categorie.Items %}
-                            <img class="img-responsive img-centered" src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="">
+                            <img class="img-responsive img-centered lazy" data-src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="">
 							<p>{{item.Text}}</p>
 							{% endfor %}
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Sluiten</button>
