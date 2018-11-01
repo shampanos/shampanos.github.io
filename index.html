@@ -394,12 +394,11 @@ title: loungeopmaat.com - houten meubelen op maat
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@10.19.0/dist/lazyload.min.js"></script>
-
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script>
-        var myLazyLoad = new LazyLoad({
-            elements_selector: ".lazy"
-        });        
+        $('.lazy').lazy({
+            delay: 500
+        }); 
     </script>
 
     <!-- Google Analytics -->
