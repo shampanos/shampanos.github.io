@@ -61,7 +61,7 @@
 					"List_Image": "img/portfolio/hoekbanken/lounge hoekbank van douglashout op maat gemaakt.jpg"
 				},
 				{
-					"Text": "Noordwijk, lounge hoekbank van bankirai, prijzen op aanvraag.",
+					"Text": "Noordwijk, lounge hoekbank van bankirai hardhout, prijzen op aanvraag.",
 					"List_Image": "img/portfolio/hoekbanken/lounge hoekbank gemaakt van bankirai hardhout.jpg"
 				},
 				{
@@ -103,6 +103,10 @@
 				{
 					"Text": "Hooge Mierde, Loungebank van douglashout 365cm x 303cm prijs €800,- Loungebank is afgestemd op Ikea kussens van 62cm x 62cm",
 					"List_Image": "/uploads/IMG_20181011_190532.png"
+				},
+				{
+					"Text": "Antwerpen, Loungebank van douglashout, met in de hoek een tafel ipv doorlopende rugleuning.",
+					"List_Image": "/uploads/img-20181011-190355.png"
 				}
 			]
 		},
@@ -201,7 +205,7 @@
 		},
 		{
 			"Title": "Accessoires en diverse",
-			"Subtitle": "",
+			"Subtitle": "snijplanken, buitenbar, zandbak enz.",
 			"Category_Image": "/img/portfolio/accessoires/IMG_20181101_155257.png",
 			"Items": [
 				{
@@ -253,7 +257,7 @@
 			]
 		},
 		{
-			"Title": "Eettafels vanaf €155,-",
+			"Title": "Eettafels",
 			"Subtitle": "",
 			"Category_Image": "/uploads/eettafel-eiken-eikenhout-behandeld-met-lak-transparant.jpg",
 			"Items": [
@@ -324,7 +328,7 @@
 			]
 		},
 		{
-			"Title": "Kasten vanaf €275,-",
+			"Title": "Kasten",
 			"Subtitle": "",
 			"Category_Image": "/uploads/yoga-ruimte-op-maat-gemaakt-eikenhout.jpg",
 			"Items": [
@@ -355,7 +359,7 @@
 			]
 		},
 		{
-			"Title": "Lange tafels/buiten tafels vanaf €220,-",
+			"Title": "Buiten / tuintafels",
 			"Subtitle": "",
 			"Category_Image": "img/portfolio/langetafels/image.jpg",
 			"Items": [
