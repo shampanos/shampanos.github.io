@@ -181,22 +181,26 @@
 			]
 		},
 		{
-			"Title": "Picknick tafels vanaf €650,-",
-			"Subtitle": "",
+			"Title": "Picknick tafels",
+			"Subtitle": "prijzen vanaf €750,-",
 			"Category_Image": "/uploads/1.jpg",
 			"Items": [
 				{
-					"Text": "Picknick tafel",
+					"Text": "Picknick tafel, stalen frame (gelakt of gepoedercoat in gewenste kleur) Houten douglas balken van 50mm x 150mm en voor de zitting 100mm x 100mm. Lengte tot maximaal 300cm.",
 					"List_Image": "img/portfolio/picknick/1.jpg"
 				},
 				{
-					"Text": "Picknick tafel",
+					"Text": "Picknick tafel, houtwerk ook mogelijk in hardhout, prijzen op aanvraag",
 					"List_Image": "img/portfolio/picknick/2.jpg"
+				},
+				{
+					"Text": "Picknick tafel",
+					"List_Image": "/uploads/img-20181011-190510.png"
 				}
 			]
 		},
 		{
-			"Title": "Accessoires vanaf €15,-",
+			"Title": "Accessoires en diverse",
 			"Subtitle": "",
 			"Category_Image": "/uploads/op-maat-in-stijl-van-slaapkamer-kist-wit-gelakt.jpg",
 			"Items": [
