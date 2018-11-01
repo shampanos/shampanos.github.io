@@ -3,7 +3,7 @@
 		{
 			"Title": "Loungesets",
 			"Subtitle": "prijzen op aanvraag",
-			"Category_Image": "/uploads/IMG_20180915_152754_307.jpg",
+			"Category_Image": "/uploads/img-20180909-094027-134.png",
 			"Items": [
 				{
 					"Text": "Lommel, Loungeset van verduurzaamd grenenhout incl diverse hockers",
@@ -22,16 +22,12 @@
 					"List_Image": "/img/portfolio/loungesets/IMG_20180915_152754_307.jpg"
 				},
 				{
-					"Text": "Lommel, Loungeset van verduurzaamd grenenhout incl diverse hockers",
-					"List_Image": "img/portfolio/loungesets/loungeset hout kussens 4.jpg"
+					"Text": "Loungesets in 3d model",
+					"List_Image": "/uploads/lom-maartje-2-1.png"
 				},
 				{
-					"Text": "Lommel, Loungeset van verduurzaamd grenenhout incl diverse hockers",
-					"List_Image": "img/portfolio/loungesets/loungeset hout kussens 5.jpg"
-				},
-				{
-					"Text": "Den Haag, Loungeset bestaande uit diverse hoekbanken en stoelen",
-					"List_Image": "img/portfolio/loungesets/image 1.jpg"
+					"Text": "Lommel, Loungeset bestaande uit diverse hoekbanken en stoelen",
+					"List_Image": "/img/portfolio/loungesets/loungeset hout kussens 4.jpg"
 				},
 				{
 					"Text": "Den Haag, Loungeset bestaande uit diverse hoekbanken en stoelen",
@@ -40,21 +36,13 @@
 				{
 					"Text": "Leiden, Loungeset op maat gemaakt van verduurzaamd vuren hout",
 					"List_Image": "img/portfolio/loungesets/loungeset tuinhout verduurzaamd grenenhout loungebanken.jpg"
-				},
-				{
-					"Text": "Den Haag, Loungeset bestaande uit diverse hoekbanken en stoelen",
-					"List_Image": "img/portfolio/loungesets/image 5.jpg"
-				},
-				{
-					"Text": "Leiden, Loungeset op maat gemaakt van verduurzaamd vuren hout",
-					"List_Image": "img/portfolio/loungesets/image 8.jpg"
 				}
 			]
 		},
 		{
 			"Title": "Hoekbanken",
 			"Subtitle": "Op maat gemaakt of afgestemd op standaard kussens",
-			"Category_Image": "/uploads/lounge-hoekbank-van-douglashout-op-maat-gemaakt-1.jpg",
+			"Category_Image": "/uploads/IMG_20181011_190451.png",
 			"Items": [
 				{
 					"Text": "Geertruidenberg, loungebank van douglashout afmetingen 298cm x 298cm prijs €720,- (achterkant open) Hocker 80cm x 80cm €90,-. Loungebank is afgestemd op standaard Ikea kussens.",
@@ -107,6 +95,10 @@
 				{
 					"Text": "Antwerpen, Loungebank van douglashout, met in de hoek een tafel ipv doorlopende rugleuning.",
 					"List_Image": "/uploads/img-20181011-190355.png"
+				},
+				{
+					"Text": "3d model loungebank 290cm x 290cm",
+					"List_Image": "/uploads/lom-290x290.png"
 				}
 			]
 		},
@@ -144,7 +136,7 @@
 		{
 			"Title": "Rechte banken",
 			"Subtitle": "Op maat gemaakt of afgestemd op standaard kussens",
-			"Category_Image": "/img/portfolio/rechtebanken/IMG_20181101_152305.png",
+			"Category_Image": "/uploads/img-20181011-190241-1.png",
 			"Items": [
 				{
 					"Text": "Best, rechte loungebank van Douglashout breedte 240cm prijs €290,-",
@@ -167,8 +159,8 @@
 					"List_Image": "/img/portfolio/rechtebanken/IMG_20181101_152305.png"
 				},
 				{
-					"Text": "Naarden - 2 stuks 3 zits loungebanken met grote hocker / tafel",
-					"List_Image": "img/portfolio/rechtebanken/naarden.jpg"
+					"Text": "3d model loungebank 250cm",
+					"List_Image": "/uploads/lom-christine.png"
 				},
 				{
 					"Text": "Tilburg, loungebanken van nieuw geschaafd steigerhout,",
