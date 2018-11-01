@@ -360,7 +360,7 @@
 		},
 		{
 			"Title": "Buiten / tuintafels",
-			"Subtitle": "",
+			"Subtitle": "van diverse houtsoorten",
 			"Category_Image": "img/portfolio/langetafels/image.jpg",
 			"Items": [
 				{
@@ -386,6 +386,21 @@
 				{
 					"Text": "Diessen, tafel van gebruikte steigerplanken",
 					"List_Image": "img/portfolio/langetafels/image.jpg"
+				}
+			]
+		},
+		{
+			"Title": "Buitenkeukens",
+			"Subtitle": "Op maat gemaakt van diverse houtsoorten",
+			"Category_Image": "/uploads/img-20180812-224446.png",
+			"Items": [
+				{
+					"Text": "Buitenkeuken gemaakt van oud gemaakt steigerhout. Prijzen op aanvraag",
+					"List_Image": "/uploads/img-20180812-224446-1.png"
+				},
+				{
+					"Text": "Buitenkeuken gemaakt van nieuw geschaafd steigerhout, Prijzen op aanvraag",
+					"List_Image": "/uploads/img-20181101-155607.png"
 				}
 			]
 		}
