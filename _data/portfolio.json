@@ -360,16 +360,12 @@
 			"Category_Image": "img/portfolio/langetafels/image.jpg",
 			"Items": [
 				{
-					"Text": "Roosendaal, tafel van grijs gebeitst steigerhout",
-					"List_Image": "img/portfolio/langetafels/frans.jpg"
+					"Text": "Diessen, buiten tafel van douglashout 240cm lang prijs €350,-",
+					"List_Image": "/img/portfolio/langetafels/IMG_20181101_155355.png"
 				},
 				{
 					"Text": "Turnhout, tafel van gebruikt steigerhout",
 					"List_Image": "img/portfolio/langetafels/bram.jpg"
-				},
-				{
-					"Text": "Deurne, tafel van gebruikte steigerplanken",
-					"List_Image": "img/portfolio/langetafels/bjorn.jpg"
 				},
 				{
 					"Text": "Uden, tafel van verduurzaamd grenenhout",
@@ -386,10 +382,6 @@
 				{
 					"Text": "Diessen, tafel van gebruikte steigerplanken",
 					"List_Image": "img/portfolio/langetafels/image.jpg"
-				},
-				{
-					"Text": "Dordrecht, werktafel van nieuwe steigerplanken",
-					"List_Image": "img/portfolio/langetafels/patrick.jpg"
 				}
 			]
 		}
