@@ -18,6 +18,6 @@ $(document).ready(function(){
 
     $('.portfolio-link').click(function (e) {
       e.preventDefault();
-      $(event.target).modal('show')
+      $(e.target).modal('show')
     });
 });
