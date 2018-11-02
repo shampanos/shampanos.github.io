@@ -53,7 +53,7 @@
                             <img class="img-responsive img-centered lazy" src="uploads/www.loungopmaat.com-dummy.jpeg" data-src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="">
 							<p>{{item.Text}}
 							    {% if item.Price And item.Price != "" And item.Price != nil %}
-                                    <div class="item-price">{{ item.Price }}</div>
+                                    <span class="item-price">{{ item.Price }}</span>
                                 {% endif %}
 							</p>
 							{% endfor %}
