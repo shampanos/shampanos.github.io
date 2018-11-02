@@ -9,7 +9,7 @@
         <div class="row">
 				{% for categorie in site.data.portfolio.portfolios %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="?category={{ categorie.Title | replace: ' ', '' | url_encode }}" class="portfolio-link" data-modalid="{{ categorie.Title | replace: ' ', '' | url_encode }}" data-toggle1="modal" data-portfoliotitle="{{categorie.Title}}">
+                    <a href="?category={{ categorie.Title | replace: ' ', '' | uri_escape }}" class="portfolio-link" data-modalid="{{ categorie.Title | replace: ' ', '' | uri_escape }}" data-toggle1="modal" data-portfoliotitle="{{categorie.Title}}">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -34,7 +34,7 @@
 {% for categorie in site.data.portfolio.portfolios %}
     <!-- Portfolio Modal {{ forloop.index }} -->
 
-    <div class="portfolio-modal modal fade" id="{{ categorie.Title | replace: ' ', '' | url_encode }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="{{ categorie.Title | replace: ' ', '' | uri_escape }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
