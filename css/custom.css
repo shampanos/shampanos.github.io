@@ -1,3 +1,8 @@
 .portfolio-caption > p {
     height: 56px;
 }
+
+.item-price {
+    font-weight: bold;
+    font-size: large;
+}
