@@ -18,6 +18,6 @@ $(document).ready(function(){
 
     $('.portfolio-link').click(function (e) {
       e.preventDefault();
-      $(e.target).modal('show')
+      $('#' + e.target.data('modalid')).modal('show')
     });
 });
