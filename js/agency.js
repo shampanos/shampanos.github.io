@@ -13,11 +13,6 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
-    
-    $(document).on('click', '.portfolio-link', function(event){
-        var portfolioTitle = $(this).data("portfoliotitle");
-        ga('send', 'pageview', {'page': '/' + portfolioTitle});
-    })
 });
 
 // Highlight the top nav as scrolling occurs
