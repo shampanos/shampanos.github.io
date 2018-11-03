@@ -14,10 +14,13 @@ $(document).ready(function(){
           modalToShow = '#' + modalString;
       if (modalString !== '') {
         $(modalToShow).modal('show');
+        ga('send', 'pageview', {'page': '/' + modalString});
       }
 
     $('.portfolio-link').click(function (e) {
       e.preventDefault();
-      $('#' + $(this).data('modalid')).modal('show')
+      var modalString = $(this).data('modalid');
+      $('#' + modalString).modal('show')
+      ga('send', 'pageview', {'page': '/' + modalString});
     });
 });
