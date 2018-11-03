@@ -409,15 +409,15 @@ meta-description: >-
         }); 
     </script>
 
-    {% if jekyll.environment != "test" %}
     <!-- Google Analytics -->
     <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
     ga('create', 'UA-77502601-1', 'auto');
     ga('send', 'pageview');
     </script>
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
     <!-- End Google Analytics -->
+    {% if jekyll.environment != "test" %}
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
     {% endif %}
 </body>
 
