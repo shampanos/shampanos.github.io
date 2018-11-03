@@ -9,7 +9,7 @@
         <div class="row">
 				{% for categorie in site.data.portfolio.portfolios %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioDetails{{ forloop.index }}" class="portfolio-link" data-toggle="modal" data-portfoliotitle="{{categorie.Title}}">
+                    <a href="?category={{ categorie.Title | replace: '/', '' | replace: ' ', '-' }}" class="portfolio-link" data-modalid="{{ categorie.Title | replace: '/', '' | replace: ' ', '-' }}" data-toggle1="modal" data-portfoliotitle="{{categorie.Title}}">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -34,7 +34,7 @@
 {% for categorie in site.data.portfolio.portfolios %}
     <!-- Portfolio Modal {{ forloop.index }} -->
 
-    <div class="portfolio-modal modal fade" id="portfolioDetails{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="{{ categorie.Title | replace: '/', '' | replace: ' ', '-' }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -51,7 +51,11 @@
                             <p class="item-intro text-muted">{{categorie.Subtitle}}</p>
 							{% for item in categorie.Items %}
                             <img class="img-responsive img-centered lazy" src="uploads/www.loungopmaat.com-dummy.jpeg" data-src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="">
-							<p>{{item.Text}}</p>
+							<p>{{item.Text}}
+							    {% if item.Price And item.Price != "" And item.Price != nil %}
+                                    <span class="item-price">{{ item.Price }}</span>
+                                {% endif %}
+							</p>
 							{% endfor %}
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Sluiten</button>
                         </div>

@@ -1,6 +1,10 @@
 ---
-title: loungeopmaat.com - houten meubelen op maat
-meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
+title: >-
+  loungeopmaat.com - houten meubelen op maat. Bestel nu je loungebank met 10%
+  korting voor levering t/m maart 2019!
+meta-description: >-
+  Nu 10% korting op je bestelling van een loungebank, bij plaatsing tot en met
+  maart 2019!!!
 ---
 
 <!DOCTYPE html>
@@ -13,9 +17,10 @@ meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
+    <meta name="environment" content="{{jekyll.environment}}" />
 
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.meta-description }} ">
+    <meta name="description" content="{{ page.meta-description }} " />
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -90,7 +95,7 @@ meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
             <div class="intro-text">
                 <div class="intro-lead-in" style="display:none">Precies zoals u het wilt</div>
                 <h1 class="intro-heading editable">
-                    Houten meubelen<br />voor binnen en buiten<br />op maat gemaakt
+                    <strong>Winter&shy;korting:<br />Bestel Nu je loungebank met 10% korting. Levering tot en met Maart 2019</strong>
                 </h1>
                 <a href="#portfolio" class="page-scroll btn btn-xl">Inspiratie</a>
             </div>
@@ -395,6 +400,7 @@ meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
 
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
+    <script src="js/custom.js"></script>
 
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script>
@@ -403,6 +409,7 @@ meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
         }); 
     </script>
 
+    {% if jekyll.environment != "test" %}
     <!-- Google Analytics -->
     <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -411,7 +418,7 @@ meta-description: Houten meubelen voor binnen en buiten op maat gemaakt
     </script>
     <script async src='https://www.google-analytics.com/analytics.js'></script>
     <!-- End Google Analytics -->
-
+    {% endif %}
 </body>
 
 </html>
