@@ -242,12 +242,12 @@
 			"Items": [
 				{
 					"Text": "Amsterdam, Buitenbar van douglashout €90,-",
-					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155237.png",
+					"List_Image": "/uploads/EzyWatermark181103043909119.png",
 					"Price": ""
 				},
 				{
 					"Text": "Snijplanken in diverse uitvoering gemaakt van eikenhout. prijzen van €15,- tot €35,-",
-					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155257.png",
+					"List_Image": "/uploads/EzyWatermark181103043708118.png",
 					"Price": ""
 				},
 				{
@@ -270,12 +270,17 @@
 		{
 			"Title": "Bedden en Stapelbedden",
 			"Subtitle": "Op maat gemaakt",
-			"Category_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
+			"Category_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt-1.jpg",
 			"Items": [
 				{
 					"Text": "Stapelbed, met kast ruimte en bureau gemaakt van nieuw geschaafd steigerhout",
 					"List_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
-					"Price": ""
+					"Price": "prijs op aanvraag"
+				},
+				{
+					"Text": "Kinderbed op maat gemaakt van underlayment houten plaatwerk",
+					"List_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt.jpg",
+					"Price": "prijs op aanvraag"
 				},
 				{
 					"Text": "",
@@ -287,7 +292,7 @@
 		{
 			"Title": "Schutting",
 			"Subtitle": "Op maat gemaakt",
-			"Category_Image": "/img/portfolio/stoelen/IMG_20181101_155155.png",
+			"Category_Image": "/uploads/ezywatermark1811030445411141.jpg",
 			"Items": [
 				{
 					"Text": "Schutting gemaakt van smalle douglas houten latten, prijs op aanvraag.",
@@ -427,7 +432,7 @@
 			"Items": [
 				{
 					"Text": "Diessen, buiten tafel van douglashout 240cm lang prijs €350,-",
-					"List_Image": "/img/portfolio/langetafels/IMG_20181101_155355.png",
+					"List_Image": "/uploads/ezywatermark1811030451221122.jpg",
 					"Price": ""
 				},
 				{
