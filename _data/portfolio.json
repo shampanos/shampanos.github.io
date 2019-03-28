@@ -140,8 +140,8 @@
 					"Price": "prijs op aanvraag"
 				},
 				{
-					"Text": "Rotterdam - op maat gemaakte loungebank van verduurzaamd vurenhout",
-					"List_Image": "img/portfolio/ubanken/Loungebank Johan de Meester.jpg",
+					"Text": "Maaseik - loungebank u bank gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190313-181015-280.jpg",
 					"Price": ""
 				},
 				{
@@ -166,6 +166,11 @@
 			"Subtitle": "Op maat gemaakt of afgestemd op standaard kussens",
 			"Category_Image": "/uploads/img-20181011-190241-1.png",
 			"Items": [
+				{
+					"Text": "Ulvenhout - loungebank 280cm gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190225-085331.png",
+					"Price": "Prijs loungebank €340,- (achterzijde open)"
+				},
 				{
 					"Text": "Best, rechte loungebank van Douglashout breedte 240cm.",
 					"List_Image": "/uploads/ezywatermark1811110149341134.png",
