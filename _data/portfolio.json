@@ -63,6 +63,11 @@
 					"Price": ""
 				},
 				{
+					"Text": "Loungebank 250cm x 250cm gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190224-105126-620.jpg",
+					"Price": "prijs loungebank €600,- (achterzijde open)"
+				},
+				{
 					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
 					"List_Image": "/uploads/img-20181011-190451.png",
 					"Price": "Loungebank €640,-  Hocker €90,-"
@@ -127,7 +132,7 @@
 		{
 			"Title": "U banken",
 			"Subtitle": "prijzen op aanvraag",
-			"Category_Image": "/uploads/IMG_20181011_190728.png",
+			"Category_Image": "/uploads/img-20190226-111743-373.jpg",
 			"Items": [
 				{
 					"Text": "Oosterhout, Ubank gemaakt van douglashout, 360cm x 425cm x 360cm.",
@@ -135,13 +140,13 @@
 					"Price": "prijs €1375,-"
 				},
 				{
-					"Text": "Nijmegen - op maat gemaakte loungebank van douglashout",
-					"List_Image": "img/portfolio/ubanken/lounge u bank van douglashout met 2 hockers.jpg",
-					"Price": ""
+					"Text": "Lokeren - Loungebank van Padouk hardhout icm douglashout",
+					"List_Image": "/uploads/img-20190225-095702.png",
+					"Price": "prijs op aanvraag"
 				},
 				{
-					"Text": "Rotterdam - op maat gemaakte loungebank van verduurzaamd vurenhout",
-					"List_Image": "img/portfolio/ubanken/Loungebank Johan de Meester.jpg",
+					"Text": "Maaseik - loungebank u bank gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190313-181015-280.jpg",
 					"Price": ""
 				},
 				{
@@ -166,6 +171,11 @@
 			"Subtitle": "Op maat gemaakt of afgestemd op standaard kussens",
 			"Category_Image": "/uploads/img-20181011-190241-1.png",
 			"Items": [
+				{
+					"Text": "Ulvenhout - loungebank 280cm gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190225-085331.png",
+					"Price": "Prijs loungebank €340,- (achterzijde open)"
+				},
 				{
 					"Text": "Best, rechte loungebank van Douglashout breedte 240cm.",
 					"List_Image": "/uploads/ezywatermark1811110149341134.png",
@@ -283,9 +293,9 @@
 					"Price": "prijs op aanvraag"
 				},
 				{
-					"Text": "",
-					"List_Image": "img/portfolio/bedden/image 2.jpg",
-					"Price": ""
+					"Text": "Bed op maat van oud gemaakt steigerhout",
+					"List_Image": "/uploads/img-20190206-181532-155.jpg",
+					"Price": "prijzen op aanvraag"
 				}
 			]
 		},
