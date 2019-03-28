@@ -63,6 +63,11 @@
 					"Price": ""
 				},
 				{
+					"Text": "Loungebank 250cm x 250cm gemaakt van douglashout",
+					"List_Image": "/uploads/img-20190224-105126-620.jpg",
+					"Price": "prijs loungebank €600,- (achterzijde open)"
+				},
+				{
 					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
 					"List_Image": "/uploads/img-20181011-190451.png",
 					"Price": "Loungebank €640,-  Hocker €90,-"
@@ -121,11 +126,6 @@
 					"Text": "3d model loungebank 290cm x 290cm",
 					"List_Image": "/uploads/lom-290x290.png",
 					"Price": ""
-				},
-				{
-					"Text": "Loungebank 250cm x 250cm gemaakt van douglashout",
-					"List_Image": "/uploads/img-20190224-105126-620.jpg",
-					"Price": "prijs loungebank €600,- (achterzijde open)"
 				}
 			]
 		},
@@ -293,9 +293,9 @@
 					"Price": "prijs op aanvraag"
 				},
 				{
-					"Text": "",
-					"List_Image": "img/portfolio/bedden/image 2.jpg",
-					"Price": ""
+					"Text": "Bed op maat van oud gemaakt steigerhout",
+					"List_Image": "/uploads/img-20190206-181532-155.jpg",
+					"Price": "prijzen op aanvraag"
 				}
 			]
 		},
