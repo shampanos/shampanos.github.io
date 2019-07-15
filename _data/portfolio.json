@@ -113,9 +113,9 @@
 					"Price": "Loungebank €650,-  Hocker €90,- per stuk"
 				},
 				{
-					"Text": "Dordrecht, hoekbank van oud gemaakt steigerhout, 250cm x 300cm.",
-					"List_Image": "/uploads/IMG_20181101_102100.png",
-					"Price": "Loungebank €690,-"
+					"Text": "Den Haag, loungebank op maak gemaakt van douglashout",
+					"List_Image": "/uploads/tuinbank-op-maat-met-kussens-hout.jpg",
+					"Price": ""
 				},
 				{
 					"Text": "Hooge Mierde, Loungebank van douglashout 365cm x 303cm. Loungebank is afgestemd op Ikea kussens van 62cm x 62cm",
@@ -251,13 +251,18 @@
 			"Category_Image": "img/portfolio/langetafels/image.jpg",
 			"Items": [
 				{
-					"Text": "Goirle, tafel en bankje van douglashouten balken",
-					"List_Image": "/uploads/tafel-goirle-douglashouten-balken.jpg",
+					"Text": "Loosdrechtse Plassen, tafel van douglashouten balken en bijpassende bankjes",
+					"List_Image": "/uploads/loosdrecht-tafel-en-banken-van-douglashout.JPG",
 					"Price": ""
 				},
 				{
 					"Text": "Helmond - tuintafel van 4 meter lang!!! gemaakt van douglashouten balken",
 					"List_Image": "/uploads/tafel-4-meter-lang-van-douglashouten-balken.jpg",
+					"Price": ""
+				},
+				{
+					"Text": "Goirle, tafel en bankje van douglashouten balken",
+					"List_Image": "/uploads/tafel-goirle-douglashouten-balken.jpg",
 					"Price": ""
 				},
 				{
@@ -268,11 +273,6 @@
 				{
 					"Text": "Oss, tafel van gebruikt steigerhout",
 					"List_Image": "img/portfolio/langetafels/image 2.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Loosdrechtse Plassen, tafel van douglashouten balken en bijpassende bankjes",
-					"List_Image": "/uploads/loosdrecht-tafel-en-banken-van-douglashout.JPG",
 					"Price": ""
 				},
 				{
