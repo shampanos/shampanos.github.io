@@ -78,6 +78,11 @@
 					"Price": "loungebank €650,- hocker €90,-"
 				},
 				{
+					"Text": "Den Haag, loungebank op maak gemaakt van douglashout",
+					"List_Image": "/uploads/tuinbank-op-maat-met-kussens-hout.jpg",
+					"Price": ""
+				},
+				{
 					"Text": "Wijk en Aalburg, loungebank van douglashout, prijzen op aanvraag",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20180812_224307.png",
 					"Price": ""
@@ -111,11 +116,6 @@
 					"Text": "Rotterdam, hoekbank van douglashout 250cm x 250cm. Hockers van 80cm x 80cm.",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20181011_190556.png",
 					"Price": "Loungebank €650,-  Hocker €90,- per stuk"
-				},
-				{
-					"Text": "Den Haag, loungebank op maak gemaakt van douglashout",
-					"List_Image": "/uploads/tuinbank-op-maat-met-kussens-hout.jpg",
-					"Price": ""
 				},
 				{
 					"Text": "Hooge Mierde, Loungebank van douglashout 365cm x 303cm. Loungebank is afgestemd op Ikea kussens van 62cm x 62cm",
@@ -299,7 +299,7 @@
 				},
 				{
 					"Text": "Bed op maat van oud gemaakt steigerhout",
-					"List_Image": "/uploads/img-20190206-181532-155.jpg",
+					"List_Image": "/uploads/kinder-bed-op-maat-gemaakt.jpg",
 					"Price": "prijzen op aanvraag"
 				},
 				{
