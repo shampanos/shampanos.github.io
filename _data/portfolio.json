@@ -78,6 +78,11 @@
 					"Price": "loungebank €650,- hocker €90,-"
 				},
 				{
+					"Text": "Den Haag, loungebank op maak gemaakt van douglashout",
+					"List_Image": "/uploads/tuinbank-op-maat-met-kussens-hout.jpg",
+					"Price": ""
+				},
+				{
 					"Text": "Wijk en Aalburg, loungebank van douglashout, prijzen op aanvraag",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20180812_224307.png",
 					"Price": ""
@@ -103,19 +108,14 @@
 					"Price": "Loungebank €725,-  Hocker €100,-"
 				},
 				{
-					"Text": "Amsterdam, loungebank van smalle latten douglashout, prijzen op aanvraag.",
-					"List_Image": "img/portfolio/hoekbanken/loungebank gemaakt van smalle planken douglas hout.jpg",
-					"Price": ""
+					"Text": "Zeist, hoekbank op maat gemaakt 275cm x 350cm met aan één zijde een armleuning en hocker op wieltjes",
+					"List_Image": "/uploads/hoekbank-zeist-op-maat-gemaakt-lariks-hout.JPG",
+					"Price": "loungebank €810,- hocker €120,-"
 				},
 				{
 					"Text": "Rotterdam, hoekbank van douglashout 250cm x 250cm. Hockers van 80cm x 80cm.",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20181011_190556.png",
 					"Price": "Loungebank €650,-  Hocker €90,- per stuk"
-				},
-				{
-					"Text": "Dordrecht, hoekbank van oud gemaakt steigerhout, 250cm x 300cm.",
-					"List_Image": "/uploads/IMG_20181101_102100.png",
-					"Price": "Loungebank €690,-"
 				},
 				{
 					"Text": "Hooge Mierde, Loungebank van douglashout 365cm x 303cm. Loungebank is afgestemd op Ikea kussens van 62cm x 62cm",
@@ -251,13 +251,18 @@
 			"Category_Image": "img/portfolio/langetafels/image.jpg",
 			"Items": [
 				{
-					"Text": "Goirle, tafel en bankje van douglashouten balken",
-					"List_Image": "/uploads/tafel-goirle-douglashouten-balken.jpg",
+					"Text": "Loosdrechtse Plassen, tafel van douglashouten balken en bijpassende bankjes",
+					"List_Image": "/uploads/loosdrecht-tafel-en-banken-van-douglashout.JPG",
 					"Price": ""
 				},
 				{
 					"Text": "Helmond - tuintafel van 4 meter lang!!! gemaakt van douglashouten balken",
 					"List_Image": "/uploads/tafel-4-meter-lang-van-douglashouten-balken.jpg",
+					"Price": ""
+				},
+				{
+					"Text": "Goirle, tafel en bankje van douglashouten balken",
+					"List_Image": "/uploads/tafel-goirle-douglashouten-balken.jpg",
 					"Price": ""
 				},
 				{
@@ -268,11 +273,6 @@
 				{
 					"Text": "Oss, tafel van gebruikt steigerhout",
 					"List_Image": "img/portfolio/langetafels/image 2.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Tilburg, tafel van nieuw geschaafd steigerhout",
-					"List_Image": "img/portfolio/langetafels/image 32.jpg",
 					"Price": ""
 				},
 				{
@@ -299,12 +299,17 @@
 				},
 				{
 					"Text": "Bed op maat van oud gemaakt steigerhout",
-					"List_Image": "/uploads/img-20190206-181532-155.jpg",
+					"List_Image": "/uploads/kinder-bed-op-maat-gemaakt.jpg",
 					"Price": "prijzen op aanvraag"
 				},
 				{
 					"Text": "Tilburg - Bed van underlayment platen",
 					"List_Image": "/uploads/img-20190225-085244.png",
+					"Price": ""
+				},
+				{
+					"Text": "kinderbed met 3 slaapplaatsen gemaakt van wit geschilderd douglashout",
+					"List_Image": "/uploads/kinderbed-tilburg-wit-van-kleur-meisjes-bed.jpg",
 					"Price": ""
 				}
 			]
