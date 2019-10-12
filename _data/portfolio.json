@@ -224,6 +224,38 @@
 			]
 		},
 		{
+			"Title": "Bedden en Stapelbedden",
+			"Subtitle": "Op maat gemaakt",
+			"Category_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt-1.jpg",
+			"Items": [
+				{
+					"Text": "kinderbed met 3 slaapplaatsen gemaakt van wit geschilderd douglashout",
+					"List_Image": "/uploads/kinderbed-tilburg-wit-van-kleur-meisjes-bed.jpg",
+					"Price": ""
+				},
+				{
+					"Text": "Tilburg - Bed van underlayment platen",
+					"List_Image": "/uploads/img-20190225-085244.png",
+					"Price": ""
+				},
+				{
+					"Text": "Stapelbed, met kast ruimte en bureau gemaakt van nieuw geschaafd steigerhout",
+					"List_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
+					"Price": "prijs op aanvraag"
+				},
+				{
+					"Text": "Bed op maat van oud gemaakt steigerhout",
+					"List_Image": "/uploads/kinder-bed-op-maat-gemaakt.jpg",
+					"Price": "prijzen op aanvraag"
+				},
+				{
+					"Text": "Kinderbed op maat gemaakt van underlayment houten plaatwerk",
+					"List_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt.jpg",
+					"Price": "prijs op aanvraag"
+				}
+			]
+		},
+		{
 			"Title": "Picknick tafels",
 			"Subtitle": "Stalen frame op kleur en douglashouten balken",
 			"Category_Image": "/uploads/1.jpg",
@@ -283,45 +315,18 @@
 			]
 		},
 		{
-			"Title": "Bedden en Stapelbedden",
-			"Subtitle": "Op maat gemaakt",
-			"Category_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt-1.jpg",
+			"Title": "Buitenkeukens",
+			"Subtitle": "Op maat gemaakt van diverse houtsoorten",
+			"Category_Image": "/uploads/img-20180812-224446.png",
 			"Items": [
 				{
-					"Text": "Stapelbed, met kast ruimte en bureau gemaakt van nieuw geschaafd steigerhout",
-					"List_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
-					"Price": "prijs op aanvraag"
-				},
-				{
-					"Text": "Kinderbed op maat gemaakt van underlayment houten plaatwerk",
-					"List_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt.jpg",
-					"Price": "prijs op aanvraag"
-				},
-				{
-					"Text": "Bed op maat van oud gemaakt steigerhout",
-					"List_Image": "/uploads/kinder-bed-op-maat-gemaakt.jpg",
-					"Price": "prijzen op aanvraag"
-				},
-				{
-					"Text": "Tilburg - Bed van underlayment platen",
-					"List_Image": "/uploads/img-20190225-085244.png",
+					"Text": "Buitenkeuken gemaakt van oud gemaakt steigerhout. Prijzen op aanvraag",
+					"List_Image": "/uploads/img-20180812-224446-1.png",
 					"Price": ""
 				},
 				{
-					"Text": "kinderbed met 3 slaapplaatsen gemaakt van wit geschilderd douglashout",
-					"List_Image": "/uploads/kinderbed-tilburg-wit-van-kleur-meisjes-bed.jpg",
-					"Price": ""
-				}
-			]
-		},
-		{
-			"Title": "Schutting",
-			"Subtitle": "Op maat gemaakt",
-			"Category_Image": "/uploads/ezywatermark1811030445411141.jpg",
-			"Items": [
-				{
-					"Text": "Schutting gemaakt van smalle douglas houten latten, prijs op aanvraag.",
-					"List_Image": "/img/portfolio/stoelen/IMG_20181101_155155.png",
+					"Text": "Buitenkeuken gemaakt van nieuw geschaafd steigerhout, Prijzen op aanvraag",
+					"List_Image": "/uploads/img-20181101-155607.png",
 					"Price": ""
 				}
 			]
@@ -414,50 +419,13 @@
 			]
 		},
 		{
-			"Title": "Accessoires en diverse",
-			"Subtitle": "snijplanken, buitenbar, zandbak enz.",
-			"Category_Image": "/img/portfolio/accessoires/IMG_20181101_155257.png",
+			"Title": "Schutting",
+			"Subtitle": "Op maat gemaakt",
+			"Category_Image": "/uploads/ezywatermark1811030445411141.jpg",
 			"Items": [
 				{
-					"Text": "Amsterdam, Buitenbar van douglashout €90,-",
-					"List_Image": "/uploads/EzyWatermark181103043909119.png",
-					"Price": ""
-				},
-				{
-					"Text": "Snijplanken in diverse uitvoering gemaakt van eikenhout. prijzen van €15,- tot €35,-",
-					"List_Image": "/uploads/EzyWatermark181103043708118.png",
-					"Price": ""
-				},
-				{
-					"Text": "Amsterdam, zandbak in vorm van boot, prijs op aanvraag",
-					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155507.png",
-					"Price": ""
-				},
-				{
-					"Text": "Gilze, trap gemaakt van douglashout",
-					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155327.png",
-					"Price": ""
-				},
-				{
-					"Text": "wandplank voor decoratie van steigerhout en balken",
-					"List_Image": "img/portfolio/accessoires/decoratie aan wand voor planten steigerhout.jpg",
-					"Price": ""
-				}
-			]
-		},
-		{
-			"Title": "Buitenkeukens",
-			"Subtitle": "Op maat gemaakt van diverse houtsoorten",
-			"Category_Image": "/uploads/img-20180812-224446.png",
-			"Items": [
-				{
-					"Text": "Buitenkeuken gemaakt van oud gemaakt steigerhout. Prijzen op aanvraag",
-					"List_Image": "/uploads/img-20180812-224446-1.png",
-					"Price": ""
-				},
-				{
-					"Text": "Buitenkeuken gemaakt van nieuw geschaafd steigerhout, Prijzen op aanvraag",
-					"List_Image": "/uploads/img-20181101-155607.png",
+					"Text": "Schutting gemaakt van smalle douglas houten latten, prijs op aanvraag.",
+					"List_Image": "/img/portfolio/stoelen/IMG_20181101_155155.png",
 					"Price": ""
 				}
 			]
@@ -495,6 +463,38 @@
 				{
 					"Text": "Boekenkast van beukenhout, eikenhout en gebruikte metselprofielen - €350,-",
 					"List_Image": "img/portfolio/kasten/Boekenkast van beukenhout, eikenhout en gebruikte metselprofielen 2.jpg",
+					"Price": ""
+				}
+			]
+		},
+		{
+			"Title": "Accessoires en diverse",
+			"Subtitle": "snijplanken, buitenbar, zandbak enz.",
+			"Category_Image": "/img/portfolio/accessoires/IMG_20181101_155257.png",
+			"Items": [
+				{
+					"Text": "Amsterdam, Buitenbar van douglashout €90,-",
+					"List_Image": "/uploads/EzyWatermark181103043909119.png",
+					"Price": ""
+				},
+				{
+					"Text": "Snijplanken in diverse uitvoering gemaakt van eikenhout. prijzen van €15,- tot €35,-",
+					"List_Image": "/uploads/EzyWatermark181103043708118.png",
+					"Price": ""
+				},
+				{
+					"Text": "Amsterdam, zandbak in vorm van boot, prijs op aanvraag",
+					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155507.png",
+					"Price": ""
+				},
+				{
+					"Text": "Gilze, trap gemaakt van douglashout",
+					"List_Image": "/img/portfolio/accessoires/IMG_20181101_155327.png",
+					"Price": ""
+				},
+				{
+					"Text": "wandplank voor decoratie van steigerhout en balken",
+					"List_Image": "img/portfolio/accessoires/decoratie aan wand voor planten steigerhout.jpg",
 					"Price": ""
 				}
 			]
