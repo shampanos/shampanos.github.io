@@ -288,13 +288,18 @@
 			"Category_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt-1.jpg",
 			"Items": [
 				{
-					"Text": "Stapelbed, met kast ruimte en bureau gemaakt van nieuw geschaafd steigerhout",
-					"List_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
-					"Price": "prijs op aanvraag"
+					"Text": "kinderbed met 3 slaapplaatsen gemaakt van wit geschilderd douglashout",
+					"List_Image": "/uploads/kinderbed-tilburg-wit-van-kleur-meisjes-bed.jpg",
+					"Price": ""
 				},
 				{
-					"Text": "Kinderbed op maat gemaakt van underlayment houten plaatwerk",
-					"List_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt.jpg",
+					"Text": "Tilburg - Bed van underlayment platen",
+					"List_Image": "/uploads/img-20190225-085244.png",
+					"Price": ""
+				},
+				{
+					"Text": "Stapelbed, met kast ruimte en bureau gemaakt van nieuw geschaafd steigerhout",
+					"List_Image": "/img/portfolio/bedden/IMG_20181101_155536.png",
 					"Price": "prijs op aanvraag"
 				},
 				{
@@ -303,14 +308,9 @@
 					"Price": "prijzen op aanvraag"
 				},
 				{
-					"Text": "Tilburg - Bed van underlayment platen",
-					"List_Image": "/uploads/img-20190225-085244.png",
-					"Price": ""
-				},
-				{
-					"Text": "kinderbed met 3 slaapplaatsen gemaakt van wit geschilderd douglashout",
-					"List_Image": "/uploads/kinderbed-tilburg-wit-van-kleur-meisjes-bed.jpg",
-					"Price": ""
+					"Text": "Kinderbed op maat gemaakt van underlayment houten plaatwerk",
+					"List_Image": "/uploads/stapelbed-kind-underlayment-op-maat-gemaakt.jpg",
+					"Price": "prijs op aanvraag"
 				}
 			]
 		},
