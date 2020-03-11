@@ -2,8 +2,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h2 class="section-heading editable">Portfolio</h2>
-				<h3 class="section-subheading text-muted editable">Voorbeelden van reeds gerealiseerde projecten</h3>
+				<h2 class="section-heading editable">
+				    Portfolio
+				</h2>
+				<h3 class="section-subheading text-muted editable">
+				    Voorbeelden van reeds gerealiseerde projecten
+				</h3>
 			</div>
 		</div>
         <div class="row">
@@ -15,7 +19,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="//images.weserv.nl/?url={{site.url}}{{categorie.Category_Image}}&w=400&h=300&t=square&a=entropy" class="img-responsive" alt="">
+                        <img src="//images.weserv.nl/?url={{site.url}}{{categorie.Category_Image}}&w=400&h=300&t=square&a=entropy" class="img-responsive" alt="" />
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{categorie.Title}}</h4>
@@ -50,7 +54,7 @@
                             <h2>{{categorie.Title}}</h2>
                             <p class="item-intro text-muted">{{categorie.Subtitle}}</p>
 							{% for item in categorie.Items %}
-                            <img class="img-responsive img-centered lazy" src="uploads/www.loungopmaat.com-dummy.jpeg" data-src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="">
+                            <img class="img-responsive img-centered lazy" src="uploads/www.loungopmaat.com-dummy.jpeg" data-src="//images.weserv.nl/?url={{site.url}}{{item.List_Image}}&w=700&t=fitup" alt="" />
 							<p>{{item.Text}}
 							    {% if item.Price And item.Price != "" And item.Price != nil %}
                                     <span class="item-price">{{ item.Price }}</span>
