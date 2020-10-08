@@ -6,14 +6,19 @@
 			"Category_Image": "/uploads/IMG_20181011_190451.png",
 			"Items": [
 				{
+					"Text": "Delft - Lounge hoekbank incl kussens op maat, Stof Sunbrella Solid kleur Carbon",
+					"List_Image": "/uploads/loungebank-met-plofkussens.png",
+					"Price": ""
+				},
+				{
 					"Text": "Geertruidenberg, loungebank van douglashout afmetingen 298cm x 298cm (achterkant open). Hocker 80cm x 80cm. Loungebank is afgestemd op standaard Ikea kussens van 62cm x 62cm.",
 					"List_Image": "img/portfolio/hoekbanken/lounge hoekbank van douglashout op maat gemaakt.jpg",
 					"Price": "Loungebank €780,-  Hocker €90,-"
 				},
 				{
-					"Text": "Delft - Lounge hoekbank incl kussens op maat, Stof Sunbrella Solid kleur Carbon",
-					"List_Image": "/uploads/loungebank-met-plofkussens.png",
-					"Price": ""
+					"Text": "Loungebank 300cm x 240cm, Hocker / tafeltje 60cm x 100cm",
+					"List_Image": "/uploads/20200928-145504.jpg",
+					"Price": "Loungebank €720,-  Hocker €90,-"
 				},
 				{
 					"Text": "Pijnacker - Loungebank 250cm x 250cm gemaakt van douglashout",
@@ -36,8 +41,8 @@
 					"Price": ""
 				},
 				{
-					"Text": "Wijk en Aalburg, loungebank van douglashout, prijzen op aanvraag",
-					"List_Image": "/img/portfolio/hoekbanken/IMG_20180812_224307.png",
+					"Text": "Tilburg - Loungebank op maat gemaakt met aangepaste zithoogte, rugleuning en hocker op wieltjes",
+					"List_Image": "/uploads/20200326-170117.jpg",
 					"Price": ""
 				},
 				{
@@ -54,11 +59,6 @@
 					"Text": "Utrecht, loungebank van oud gemaakt steigerhout, 278cm x 192cm. Bijpassende hocker van 60cm x 60cm",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20181101_102019.png",
 					"Price": "Loungebank €605,- Hocker €70,-"
-				},
-				{
-					"Text": "Loungebank 300cm x 240cm, Hocker / tafeltje 60cm x 100cm",
-					"List_Image": "/uploads/20200928-145504.jpg",
-					"Price": "Loungebank €720,-  Hocker €90,-"
 				},
 				{
 					"Text": "Zeist, loungebank op maat gemaakt van douglashout 195cm x 340cm. Hocker 80x60cm",
