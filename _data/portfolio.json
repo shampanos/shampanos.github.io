@@ -6,39 +6,39 @@
 			"Category_Image": "/uploads/IMG_20181011_190451.png",
 			"Items": [
 				{
-					"Text": "Delft - Lounge hoekbank incl kussens op maat, Stof Sunbrella Solid kleur Carbon",
+					"Text": "Delft - Lounge hoekbank 200cm x 240cm incl kussens op maat, Stof Sunbrella Solid kleur Carbon. Hocker / Tafeltje 80cm x80cm",
 					"List_Image": "/uploads/loungebank-met-plofkussens.png",
-					"Price": ""
+					"Price": "Loungebank €620,-. Hocker €100,-. Prijzen kussens op aanvraag"
 				},
 				{
 					"Text": "Geertruidenberg, loungebank van douglashout afmetingen 298cm x 298cm (achterkant open). Hocker 80cm x 80cm. Loungebank is afgestemd op standaard Ikea kussens van 62cm x 62cm.",
 					"List_Image": "img/portfolio/hoekbanken/lounge hoekbank van douglashout op maat gemaakt.jpg",
-					"Price": "Loungebank €780,-  Hocker €90,-"
+					"Price": "Loungebank €840,-  Hocker €100,-"
 				},
 				{
 					"Text": "Poortugaal - Loungebank 300cm x 240cm, Hocker / tafeltje 60cm x 100cm. Kussens Sunbrella Solid kleur: Ash Grey",
 					"List_Image": "/uploads/20200928-145504.jpg",
-					"Price": "Loungebank €720,-  Hocker €90,-"
+					"Price": "Loungebank €755,-  Hocker €100,- Prijzen kussens op aanvraag"
 				},
 				{
 					"Text": "Pijnacker - Loungebank 250cm x 250cm gemaakt van douglashout",
 					"List_Image": "/uploads/loungebank-pijnacker-douglashout.jpg",
-					"Price": "prijs loungebank €650,- (achterzijde open)"
+					"Price": "prijs loungebank €700,- (achterzijde open)"
+				},
+				{
+					"Text": "Goirle - Loungebank balken model met houten frames 320cm x230cm",
+					"List_Image": "/uploads/20201123-164547.jpg",
+					"Price": "Loungebank €1045,-."
 				},
 				{
 					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
 					"List_Image": "/uploads/img-20181011-190451.png",
-					"Price": "Loungebank €690,-  Hocker €90,-"
+					"Price": "Loungebank €750,-  Hocker €100,-"
 				},
 				{
 					"Text": "Udenhout - loungebank van 285cm x 225cm gemaakt van douglashout",
 					"List_Image": "/uploads/loungebank-met-kussens-in-udenhout.jpg",
-					"Price": "loungebank €650,- hocker €90,-"
-				},
-				{
-					"Text": "Den Haag, loungebank op maak gemaakt van douglashout",
-					"List_Image": "/uploads/tuinbank-op-maat-met-kussens-hout.jpg",
-					"Price": ""
+					"Price": "loungebank €715,- hocker €100,-"
 				},
 				{
 					"Text": "Tilburg - Loungebank op maat gemaakt met aangepaste zithoogte, rugleuning en hocker op wieltjes",
@@ -48,22 +48,22 @@
 				{
 					"Text": "Amersfoort, loungebank douglashout 290cm x 290cm. Loungebank is afgestemd op standaard kussens van 60cm x 60cm",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20180812_224413.png",
-					"Price": "Loungebank €780,-"
+					"Price": "Loungebank €815,-"
 				},
 				{
 					"Text": "Stabroek (België) - Lounge hoekbank 280cm x 380cm, Hocker 80cm x 80cm, Loungekussens, Subrella Solid kleur: Black",
 					"List_Image": "/uploads/20200618-133854.jpg",
-					"Price": "Loungebank €880,- Hocker €100,-"
+					"Price": "Loungebank €925,- Hocker €100,- Prijzen kussens op aanvraag"
 				},
 				{
 					"Text": "Utrecht, loungebank van oud gemaakt steigerhout, 278cm x 192cm. Bijpassende hocker van 60cm x 60cm",
 					"List_Image": "/img/portfolio/hoekbanken/IMG_20181101_102019.png",
-					"Price": "Loungebank €605,- Hocker €70,-"
+					"Price": "Loungebank €660,- Hocker €80,-"
 				},
 				{
 					"Text": "Zeist, loungebank op maat gemaakt van douglashout 195cm x 340cm. Hocker 80x60cm",
 					"List_Image": "/uploads/loungebank-tuin-bank-op-maat-douglas-hout.jpg",
-					"Price": "loungebank €700,-  Hocker €80,-"
+					"Price": "loungebank €750,-  Hocker €90,-"
 				},
 				{
 					"Text": "Antwerpen, Loungebank van douglashout, met in de hoek een tafel ipv doorlopende rugleuning.",
@@ -137,7 +137,7 @@
 				{
 					"Text": "Oosterhout, Ubank gemaakt van douglashout, 360cm x 425cm x 360cm.",
 					"List_Image": "/img/portfolio/ubanken/IMG_20181011_190728.png",
-					"Price": "prijs €1575,-"
+					"Price": "prijs loungebank €1600,-"
 				},
 				{
 					"Text": "Lokeren - Loungebank van Padouk hardhout",
@@ -147,7 +147,7 @@
 				{
 					"Text": "Geleen, grote lounge u-bank van 300cm x 400cm x 300cm + op maat gemaakte loungekussens stof: Sunbrella Solids kleur: Sooty",
 					"List_Image": "/uploads/20200513-164610.jpg",
-					"Price": ""
+					"Price": "Loungebank €1400,-. Prijzen kussens op aanvraag"
 				},
 				{
 					"Text": "Amsterdam - u loungebank van douglashout, prijzen op aanvraag.",
@@ -174,12 +174,32 @@
 				{
 					"Text": "Ulvenhout - loungebank 280cm gemaakt van douglashout",
 					"List_Image": "/uploads/img-20190225-085331.png",
-					"Price": "Prijs loungebank €370,- (achterzijde open)"
+					"Price": "Prijs loungebank €390,- (achterzijde open)"
 				},
 				{
 					"Text": "Best, rechte loungebank van Douglashout breedte 240cm.",
 					"List_Image": "/uploads/ezywatermark1811110149341134.png",
-					"Price": "Loungebank €315,-"
+					"Price": "Loungebank €335,-"
+				},
+				{
+					"Text": "Goirle - rechte banken in balken model met houten frames 200cm lang.",
+					"List_Image": "/uploads/20201123-164702.jpg",
+					"Price": "Loungebank €320,-. per stuk"
+				},
+				{
+					"Text": "Zeist - loungebank 320cm met kussens op maat",
+					"List_Image": "/uploads/loungebank-recht-met-kussens-op-maat-douglas-hout.jpg",
+					"Price": "Loungebank €450,- Prijzen kussens op aanvraag"
+				},
+				{
+					"Text": "Gorinchem, 2x loungebank van douglashout breedte 238cm en 247cm, loungebanken afgestemd op bestaande kussens.",
+					"List_Image": "/uploads/ezywatermark1811110145521152.png",
+					"Price": "Loungebank €335 en €345,-"
+				},
+				{
+					"Text": "Zoeterwoude - Loungebank 280cm met kussens op maat. Stof Sunbrella Solds Black",
+					"List_Image": "/uploads/rechte-tuin-bank-in-voortuin-met-kussens-black.jpg",
+					"Price": "Loungebank €390,-. Kussens op aanvraag"
 				},
 				{
 					"Text": "Rijswijk, loungebank van smalle douglashouten latten, prijs op aanvraag",
@@ -187,39 +207,19 @@
 					"Price": ""
 				},
 				{
-					"Text": "Amstelveen - rechte tuinbank 260cm van douglashout, op maat gemaakt van bestaande kussens.",
-					"List_Image": "/uploads/ezywatermark1811110141121112.png",
-					"Price": "Loungebank €340,-"
-				},
-				{
-					"Text": "Gorinchem, 2x loungebank van douglashout breedte 238cm en 247cm, loungebanken afgestemd op bestaande kussens.",
-					"List_Image": "/uploads/ezywatermark1811110145521152.png",
-					"Price": "Loungebank €330,- per stuk"
-				},
-				{
 					"Text": "Amsterdam - Loungebank van smalle douglashouten latten, prijs op aanvraag",
 					"List_Image": "/uploads/ezywatermark181111014702112.png",
 					"Price": ""
 				},
 				{
-					"Text": "3d model loungebank 250cm",
-					"List_Image": "/uploads/lom-christine.png",
-					"Price": ""
-				},
-				{
 					"Text": "Oegstgeest - Rechte loungebank 250cm met bijpassende hocker 80x80cm",
 					"List_Image": "/uploads/ezywatermark1811110204151115.png",
-					"Price": "Loungebank €325, Hocker €90,-"
+					"Price": "Loungebank €350, Hocker €100,-"
 				},
 				{
 					"Text": "Valkenburg - Loungebanken 220cm en bijpassende stoel, hout is behandeld met walnoot kleurige beits",
 					"List_Image": "/uploads/banken-en-stoel-valkenburg-limburg.jpg",
 					"Price": "Priizen op aanvraag"
-				},
-				{
-					"Text": "Loosdrecht - Loungebank op maat gemaakt van douglas hout",
-					"List_Image": "img/portfolio/rechtebanken/Loosdrecht Loungebank op maat gemaakt van douglas hout.jpg",
-					"Price": ""
 				}
 			]
 		},
@@ -234,18 +234,23 @@
 					"Price": ""
 				},
 				{
-					"Text": "Diverse loungebanken van 2 meter lang voor een flexibele indeling van het terras",
+					"Text": "Tilburg - Diverse loungebanken van 2 meter lang voor een flexibele indeling van het terras",
 					"List_Image": "/uploads/20200530-194151.jpg",
 					"Price": ""
 				},
 				{
-					"Text": "Ekeren, plantenbakken als afscheiding terras, gemaakt van Bankirai hardhout",
-					"List_Image": "/uploads/20200418-161920.jpg",
+					"Text": "Epen - diverse soorten en modellen loungebanken voor terras bij hotel",
+					"List_Image": "/uploads/20201117-123626.jpg",
 					"Price": ""
 				},
 				{
 					"Text": "Tilburg, Hoge bar bank gemaakt van douglashout",
 					"List_Image": "/uploads/20200611-131253.jpg",
+					"Price": ""
+				},
+				{
+					"Text": "Ekeren, plantenbakken als afscheiding terras, gemaakt van Bankirai hardhout",
+					"List_Image": "/uploads/20200418-161920.jpg",
 					"Price": ""
 				},
 				{
@@ -391,11 +396,6 @@
 					"Price": ""
 				},
 				{
-					"Text": "Eettafel van beukenhouten balken met tegels en een stalen onderstel",
-					"List_Image": "img/portfolio/eettafel/eettafel beukenhout tegels stalen onderstel.jpg",
-					"Price": ""
-				},
-				{
 					"Text": "Eettafel met combinatie van eikenhout en beukenhout en stalen v vormig frame",
 					"List_Image": "img/portfolio/eettafel/eettafel eiken en beuken stalen frame.jpg",
 					"Price": ""
@@ -406,58 +406,13 @@
 					"Price": ""
 				},
 				{
-					"Text": "Eettafel van eikenhout en beukenhout met stalen u frame",
-					"List_Image": "img/portfolio/eettafel/eettafel eikenhout beukenhout stalen frame.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Eettafel met een blad van eikenhout en randen van gebruikte metselprofielen",
-					"List_Image": "img/portfolio/eettafel/tafel woonkamer eikenhout beukenhout staal onderstel.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Nieuw eikenhouten tafelblad op bestaand biljart onderstel",
-					"List_Image": "img/portfolio/eettafel/eikenhouten blad op bestaand biljart onderstel.jpg",
-					"Price": ""
-				},
-				{
 					"Text": "Eettafel met houten poten en blad van Frans eiken en Beukenhout",
 					"List_Image": "img/portfolio/eettafel/Eet tafel eiken hout beuken hout gelakt.jpg.jpeg",
 					"Price": ""
 				},
 				{
-					"Text": "Eettafel van eikenhout met ingelegde italiaanse tegels",
-					"List_Image": "img/portfolio/eettafel/eettafel frans eiken metaal frame.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Bistro tafel van eikenhout, behandeld met transparante lak",
-					"List_Image": "img/portfolio/eettafel/tafel bistro eikenhout staal poot.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Inrichting van een yogaruimte met meubels gemaakt van eikenhout, douglas en gebruikte metselprofielen - prijs op aanvraag",
-					"List_Image": "img/portfolio/eettafel/eikenhouten tafel en kasten voor yogaruimte fitnessruimte op maat.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Eettafel van eikenhout met ingelegde design tegels",
-					"List_Image": "img/portfolio/eettafel/tafel diner groot nieuw eiken stalen frame onderstel.jpg",
-					"Price": ""
-				},
-				{
 					"Text": "Bistro / eettafels en staantafels bij club op het terras - prijs op aanvraag,-",
 					"List_Image": "img/portfolio/eettafel/bistro tafels en staantafels van eikenhout.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Eettafel van frans eiken met gebruikte groene metselprofielen",
-					"List_Image": "img/portfolio/eettafel/eettafel eiken eikenhout behandeld met lak transparant.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Eettafel van frans eiken met houten poten",
-					"List_Image": "img/portfolio/eettafel/tafel woonkamer 6 persoons eikenhout nieuw hout.jpg",
 					"Price": ""
 				}
 			]
