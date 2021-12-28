@@ -85,21 +85,26 @@
 		{
 			"Title": "Loungesets",
 			"Subtitle": "prijzen op aanvraag",
-			"Category_Image": "/uploads/20200716-170128.jpg",
+			"Category_Image": "/uploads/loungeset-almere-ipe-hardhout-op-vlonder-aan-waterkant.jpg",
 			"Items": [
+				{
+					"Text": "Almere - loungeset op vlonder gemaakt van Ipé hardhout",
+					"List_Image": "/uploads/loungeset-almere-ipe-hardhout-op-vlonder-aan-waterkant.jpg",
+					"Price": "op aanvraag."
+				},
 				{
 					"Text": "Waalre - Loungeset op maat gemaakt, incl. loungekussens. Stof: Sunbrella Solid, kleur Taupe Chine.",
 					"List_Image": "/uploads/20200731-204526.jpg",
 					"Price": ""
 				},
 				{
-					"Text": "Amsterdam, loungeset op maat gemaakt op dakterras, loungekussens stof: Sunbrella Solid Ardoise",
-					"List_Image": "/uploads/img-20200915-wa0005.jpg",
-					"Price": ""
+					"Text": "Amsterdam - loungeset met opbregruimte in patio, met pergola, trapje en opbergkast",
+					"List_Image": "/uploads/loungeset-patio-amsterdam-douglashout-opbergruimte.jpg",
+					"Price": "op aanvraag"
 				},
 				{
-					"Text": "Loungesets in 3d model",
-					"List_Image": "/uploads/lounge-bank-op-maat--3d-model-met-maatvoering-douglas-hout.png",
+					"Text": "Amsterdam, loungeset op maat gemaakt op dakterras, loungekussens stof: Sunbrella Solid Ardoise",
+					"List_Image": "/uploads/img-20200915-wa0005.jpg",
 					"Price": ""
 				},
 				{
@@ -108,23 +113,18 @@
 					"Price": ""
 				},
 				{
-					"Text": "Rosmalen, Loungeset op maat gemaakt",
+					"Text": "Loungesets in 3d model",
+					"List_Image": "/uploads/lounge-bank-op-maat--3d-model-met-maatvoering-douglas-hout.png",
+					"Price": ""
+				},
+				{
+					"Text": "Nuland - Den Bosch - Loungeset op maat gemaakt van Douglashout",
+					"List_Image": "/uploads/nuland-loungeset-op-maat-gemaakt-van-douglashout-met-aan-twee-zijden-zitten.jpg",
+					"Price": ""
+				},
+				{
+					"Text": "Rosmalen, Loungeset op maat gemaakt in douglashout",
 					"List_Image": "/uploads/20200528-155535.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Amsterdam, Ijburg, Loungeset op maat gemaakt van Douglashout, prijzen op aanvraag",
-					"List_Image": "/img/portfolio/loungesets/IMG_20180909_094027_134.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Lommel, Loungeset van verduurzaamd grenenhout incl diverse hockers",
-					"List_Image": "img/portfolio/loungesets/loungeset hout banken kussens tuinhout lounge.jpg",
-					"Price": ""
-				},
-				{
-					"Text": "Leiden, Loungeset op maat gemaakt van verduurzaamd vuren hout",
-					"List_Image": "img/portfolio/loungesets/loungeset tuinhout verduurzaamd grenenhout loungebanken.jpg",
 					"Price": ""
 				}
 			]
