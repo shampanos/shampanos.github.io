@@ -16,14 +16,9 @@
 					"Price": "prijzen op aanvraag"
 				},
 				{
-					"Text": "Heemstede - Lounge hoekbank 290cm x 290cm incl kussens op maat. Stof: Cartenza Uni Carbon",
-					"List_Image": "/img/portfolio/hoekbanken/heemstede-lounge-hoekbank-douglashout-met-kussens-op-maat-en-hocker.jpg",
-					"Price": "Loungebank €1050,-  Hocker €130,-"
-				},
-				{
-					"Text": "Poortugaal - Loungebank 300cm x 240cm, Hocker / tafeltje 60cm x 100cm. Kussens Sunbrella Solid kleur: Ash Grey",
-					"List_Image": "/uploads/20200928-145504.jpg",
-					"Price": "Loungebank €970,-  Hocker €130,- Prijzen kussens op aanvraag"
+					"Text": "Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
+					"List_Image": "/uploads/loungebank-douglas-hout-balken-met-dikke-kussens-op-maat-gemaakt-1.jpg",
+					"Price": "Loungebank €1450,- Kussens op aanvraag."
 				},
 				{
 					"Text": "Tilburg, Loungebank van douglashouten balken met loungekussens, stof Subrella Mineral Blue Chine",
@@ -36,14 +31,19 @@
 					"Price": ""
 				},
 				{
-					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
-					"List_Image": "/uploads/img-20181011-190451.png",
-					"Price": "Loungebank €960,-  Hocker €130,-"
+					"Text": "Heemstede - Lounge hoekbank 290cm x 290cm incl kussens op maat. Stof: Cartenza Uni Carbon",
+					"List_Image": "/img/portfolio/hoekbanken/heemstede-lounge-hoekbank-douglashout-met-kussens-op-maat-en-hocker.jpg",
+					"Price": "Loungebank €1150,-  Hocker €130,-"
 				},
 				{
-					"Text": "Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
-					"List_Image": "/uploads/loungebank-douglas-hout-balken-met-dikke-kussens-op-maat-gemaakt-1.jpg",
-					"Price": "Loungebank €1450,- Kussens op aanvraag."
+					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
+					"List_Image": "/uploads/img-20181011-190451.png",
+					"Price": "Loungebank €990,-  Hocker €130,-"
+				},
+				{
+					"Text": "Ouderkerk aan de Amstel - Loungehoekbank incl tuintafel, lounge kussens Stof Cartenza uni Carbon",
+					"List_Image": "/uploads/20200601-153451.jpg",
+					"Price": ""
 				},
 				{
 					"Text": "Goirle - Loungebank balken model met houten frames 320cm x230cm",
@@ -51,9 +51,14 @@
 					"Price": "Loungebank €1150,-."
 				},
 				{
+					"Text": "Udenhout - loungebank van 285cm x 225cm gemaakt van douglashout",
+					"List_Image": "/uploads/loungebank-met-kussens-in-udenhout.jpg",
+					"Price": "loungebank €930,- hocker €130,-"
+				},
+				{
 					"Text": "Pijnacker - Loungebank 250cm x 250cm gemaakt van douglashout",
 					"List_Image": "/uploads/loungebank-pijnacker-douglashout.jpg",
-					"Price": "prijs loungebank €900,- (achterzijde open)"
+					"Price": "prijs loungebank €940,- (achterzijde open)"
 				},
 				{
 					"Text": "Hooglanderveen - Loungebank op maat gemaakt incl loungekussens",
@@ -63,22 +68,12 @@
 				{
 					"Text": "Stabroek (België) - Lounge hoekbank 280cm x 380cm, Hocker 80cm x 80cm, Loungekussens, Subrella Solid kleur: Black",
 					"List_Image": "/uploads/20200618-133854.jpg",
-					"Price": "Loungebank €925,- Hocker €100,- Prijzen kussens op aanvraag"
+					"Price": "Loungebank €1025,- Hocker €100,- Prijzen kussens op aanvraag"
 				},
 				{
-					"Text": "Udenhout - loungebank van 285cm x 225cm gemaakt van douglashout",
-					"List_Image": "/uploads/loungebank-met-kussens-in-udenhout.jpg",
-					"Price": "loungebank €880,- hocker €130,-"
-				},
-				{
-					"Text": "Zeist, loungebank op maat gemaakt van douglashout 195cm x 340cm. Hocker 80x60cm",
-					"List_Image": "/uploads/loungebank-tuin-bank-op-maat-douglas-hout.jpg",
-					"Price": "loungebank €910,-  Hocker €120,-"
-				},
-				{
-					"Text": "Ouderkerk aan de Amstel - Loungehoekbank incl tuintafel, lounge kussens Stof Cartenza uni Carbon",
-					"List_Image": "/uploads/20200601-153451.jpg",
-					"Price": ""
+					"Text": "Poortugaal - Loungebank 300cm x 240cm, Hocker / tafeltje 60cm x 100cm. Kussens Sunbrella Solid kleur: Ash Grey",
+					"List_Image": "/uploads/20200928-145504.jpg",
+					"Price": "Loungebank €1030,-  Hocker €130,- Prijzen kussens op aanvraag"
 				}
 			]
 		},
