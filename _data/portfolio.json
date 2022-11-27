@@ -6,9 +6,9 @@
 			"Category_Image": "/uploads/IMG_20181011_190451.png",
 			"Items": [
 				{
-					"Text": "Delft - Lounge hoekbank 200cm x 240cm incl kussens op maat, Stof Sunbrella Solid kleur Carbon. Hocker / Tafeltje 80cm x80cm",
-					"List_Image": "/uploads/loungebank-met-plofkussens.png",
-					"Price": "Loungebank €790,-. Hocker €130,-. Prijzen kussens op aanvraag"
+					"Text": "Hilversum - lounge hoekbank 330cm x 320cm met loungekussens in de stof Sunbrella Solids Antique Beige",
+					"List_Image": "/uploads/lounge-hoek-bank-van-hout-lariks-met-loungekussens-op-maat-gemaakt-sunbrella.jpg",
+					"Price": "Loungebank €1210,-. Prijzen kussens op aanvraag"
 				},
 				{
 					"Text": "Vught, lounge hoekbank van zwart geschilderd douglashout",
@@ -39,6 +39,11 @@
 					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
 					"List_Image": "/uploads/img-20181011-190451.png",
 					"Price": "Loungebank €960,-  Hocker €130,-"
+				},
+				{
+					"Text": "Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
+					"List_Image": "/uploads/loungebank-douglas-hout-balken-met-dikke-kussens-op-maat-gemaakt-1.jpg",
+					"Price": "Loungebank €1450,- Kussens op aanvraag."
 				},
 				{
 					"Text": "Goirle - Loungebank balken model met houten frames 320cm x230cm",
@@ -74,11 +79,6 @@
 					"Text": "Ouderkerk aan de Amstel - Loungehoekbank incl tuintafel, lounge kussens Stof Cartenza uni Carbon",
 					"List_Image": "/uploads/20200601-153451.jpg",
 					"Price": ""
-				},
-				{
-					"Text": "Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
-					"List_Image": "/uploads/loungebank-douglas-hout-balken-met-dikke-kussens-op-maat-gemaakt-1.jpg",
-					"Price": "Loungebank €1450,- Kussens op aanvraag."
 				}
 			]
 		},
