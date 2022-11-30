@@ -127,17 +127,27 @@
 		{
 			"Title": "U banken",
 			"Subtitle": "prijzen op aanvraag",
-			"Category_Image": "/uploads/20200513-164610-1.jpg",
+			"Category_Image": "/uploads/20220902-121404.jpg",
 			"Items": [
-				{
-					"Text": "Oosterhout, Ubank gemaakt van douglashout, 360cm x 425cm x 360cm.",
-					"List_Image": "/img/portfolio/ubanken/IMG_20181011_190728.png",
-					"Price": "prijs loungebank €1950,-"
-				},
 				{
 					"Text": "Lokeren - Loungebank van Padouk hardhout",
 					"List_Image": "/uploads/img-20190318-wa0001.jpg",
 					"Price": "prijs op aanvraag"
+				},
+				{
+					"Text": "Rotterdam - Lounge u-bank op dakterras van ipé hard hout",
+					"List_Image": "/uploads/rotterdam-loungebank-op-dakterras-van-ipe-hardhout.jpg",
+					"Price": "prijzen op aanvraag"
+				},
+				{
+					"Text": "Amsterdam - loungebank op dakterras van behandeld douglashout",
+					"List_Image": "/uploads/amsterdam-noord-holland-lounge-u-bank-op-maat-gemaakt-met-kussens-wit-kleur.jpg",
+					"Price": "prijzen op aanvraag"
+				},
+				{
+					"Text": "Amsterdam - detail loungekussens, zitkussens met dubbel koord en rugkussens met zijnaad",
+					"List_Image": "/uploads/detail-loungekussens-zitkussens-met-dubbel-koord-en-plof-rugkussens-met-zijnaad.jpg",
+					"Price": ""
 				},
 				{
 					"Text": "Geleen, grote lounge u-bank van 300cm x 400cm x 300cm + op maat gemaakte loungekussens stof: Sunbrella Solids kleur: Sooty",
@@ -145,19 +155,9 @@
 					"Price": "Loungebank €1700,-. Prijzen kussens op aanvraag"
 				},
 				{
-					"Text": "Amsterdam - u loungebank van douglashout, prijzen op aanvraag.",
-					"List_Image": "/uploads/u-loungebank-amsterdam-douglas-hout.JPG",
-					"Price": ""
-				},
-				{
-					"Text": "Maaseik - Lounge u bank in strandclub met bijpassende tafel",
-					"List_Image": "/uploads/u-bank-belgie-beachclub.JPG",
-					"Price": ""
-				},
-				{
-					"Text": "Waalwijk - lounge u bank op maat gemaakt",
-					"List_Image": "/uploads/loungebank-u-bank-waalwijk-douglas-hout.JPG",
-					"Price": ""
+					"Text": "Oosterhout, Ubank gemaakt van douglashout, 360cm x 425cm x 360cm.",
+					"List_Image": "/img/portfolio/ubanken/IMG_20181011_190728.png",
+					"Price": "prijs loungebank €1950,-"
 				}
 			]
 		},
