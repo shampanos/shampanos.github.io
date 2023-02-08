@@ -11,14 +11,14 @@
 					"Price": ""
 				},
 				{
-					"Text": "Tilburg - details van de loungekussens met dubbel koord- Sunbrella Mineral Blue Chine",
-					"List_Image": "/img/portfolio/hoekbanken/Tilburg-detail-kussens-sunbrella-lounge-dubbel-koord-blue-mineral-chine.jpg",
-					"Price": ""
-				},
-				{
 					"Text": "Hilversum - lounge hoekbank 330cm x 320cm met loungekussens in de stof Sunbrella Solids Antique Beige",
 					"List_Image": "/uploads/lounge-hoek-bank-van-hout-lariks-met-loungekussens-op-maat-gemaakt-sunbrella.jpg",
 					"Price": "Loungebank €1210,-. Prijzen kussens op aanvraag"
+				},
+				{
+					"Text": "Diessen - Lounge hoekbank eikenhout 200cm x 285cm, loungekussens in Southend Antraciet",
+					"List_Image": "/uploads/20221217-153932.jpg",
+					"Price": "Loungebank €1800,-. Loungekussens op aanvraag"
 				},
 				{
 					"Text": "Vught, lounge hoekbank van zwart geschilderd douglashout",
@@ -26,7 +26,7 @@
 					"Price": "prijzen op aanvraag"
 				},
 				{
-					"Text": "Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
+					"Text": "Vleuten - Loungebank gemaakt van douglashouten balken van 10cm x 10cm, afmetingen bank 380cm x 300cm.",
 					"List_Image": "/uploads/loungebank-douglas-hout-balken-met-dikke-kussens-op-maat-gemaakt-1.jpg",
 					"Price": "Loungebank €1450,- Kussens op aanvraag."
 				},
@@ -39,6 +39,11 @@
 					"Text": "Amsterdam, Ijburg hoekbank van douglashout, 300cm x 235cm (achterkant open) Hocker 60cm x 100cm",
 					"List_Image": "/uploads/img-20181011-190451.png",
 					"Price": "Loungebank €990,-  Hocker €130,-"
+				},
+				{
+					"Text": "Tilburg - details van de loungekussens met dubbel koord- Sunbrella Mineral Blue Chine",
+					"List_Image": "/img/portfolio/hoekbanken/Tilburg-detail-kussens-sunbrella-lounge-dubbel-koord-blue-mineral-chine.jpg",
+					"Price": ""
 				},
 				{
 					"Text": "Ouderkerk aan de Amstel - Loungehoekbank incl tuintafel, lounge kussens Stof Cartenza uni Carbon",
